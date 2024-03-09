@@ -35,7 +35,7 @@ La conjetura de Collatz afirma que, al partir desde cualquier número, la secuen
 
 - Es crucial recordar que este programa recibira un parametro inicial que es muy importante para el cual se calculará la secuencia de **Collatz**.
 
-**Algunos ejemplos de solicitudes que puedes utilizar*
+**Algunos ejemplos de solicitudes que puedes utilizar**
 
 http://localhost:8080/collatz?number=10  --> debería devolver  "10 -> 5 -> 16 -> 8 -> 4 -> 2 -> 1"
 
