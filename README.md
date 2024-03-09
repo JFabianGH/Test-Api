@@ -31,7 +31,7 @@ La conjetura de Collatz afirma que, al partir desde cualquier número, la secuen
 
 - Una vez hayas descargado el repositorio del proyecto y haberlo abierto en tu **IDE** podremos seguir adelante.
 
-- Cuando la aplicación esté en funcionamiento, puedes probar la **API** enviando solicitudes **HTTP**.  De los cuales podras hacer uso a travez de  un **Navegador Web **o una herramienta como **Postman**.
+- Cuando la aplicación esté en funcionamiento, puedes probar la **API** enviando solicitudes **HTTP**.  De los cuales podras hacer uso a travez de  un **Navegador Web ** o una herramienta como **Postman**.
 
 - Es crucial recordar que este programa recibira un parametro inicial que es muy importante para el cual se calculará la secuencia de **Collatz**.
 
